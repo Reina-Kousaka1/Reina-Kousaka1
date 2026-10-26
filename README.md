@@ -68,7 +68,19 @@ Economy, shop systems, progression and ballet-inspired gameplay — developed in
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Reina-Kousaka1&theme=transparent&hide_border=true&background=00000000&stroke=C4A7E7&ring=F5A9C7&fire=F5A9C7&currStreakNum=F5A9C7&sideNums=C4A7E7&currStreakLabel=F5A9C7&sideLabels=C4A7E7&dates=9A8FA8" alt="Tori's GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Reina-Kousaka1&theme=transparent&hide_border=true&background=00000000&stroke=C4A7E7&ring=F5A9C7&fire=F5A9C7&currStreakNum=F5A9C7&sideNums=C4A7E7&currStreakLabel=F5A9C7&sideLabels=C4A7E7&dates=C4A7E7" alt="Tori's GitHub streak" />
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reina-Kousaka1/Reina-Kousaka1/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Reina-Kousaka1/Reina-Kousaka1/output/github-contribution-grid-snake.svg" />
+  <img alt="Tori's contribution snake" src="https://raw.githubusercontent.com/Reina-Kousaka1/Reina-Kousaka1/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=Reina-Kousaka1&label=PROFILE+VIEWS&color=C4A7E7&style=flat-square" alt="Tori's profile views" />
 
 </div>
 

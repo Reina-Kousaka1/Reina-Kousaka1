@@ -1,58 +1,83 @@
-# Hi, I'm Tori 👋
+<div align="center">
 
-I'm **Tori**, also known as **Reina-Kousaka1** on GitHub — a developer from Germany 🇩🇪.
+# Tori
 
-I enjoy building projects that go beyond the usual: Discord bots, backend systems, self-hosted infrastructure, and currently even my own programming language.
+**Reina-Kousaka1**
 
-## 🚧 Current Projects
+Developer from Germany · Backend · Bots · Language Design
 
-### 🧬 Tyvera
-**Status:** Active Development · Experimental · Work in Progress
+*Most of my projects start small. This has not worked out so far.*
 
-Tyvera is an independent programming language I'm currently designing and building. It combines ideas inspired by:
-
-- **Java** — static typing, classes, interfaces, generics and clear structure
-- **Elixir** — actors, message passing, pattern matching, supervision and fault tolerance
-- **C++** — performance-oriented and lower-level capabilities
-
-Tyvera has its own lexer, parser, AST, type checker, interpreter, CLI and growing standard library/runtime. Current language work includes generics, collections, `Option`/`Result`, pattern matching, actors, supervisors, async tasks, structured concurrency, binary data and checked byte buffers.
-
-> ⚠️ **Tyvera is currently unfinished and not considered stable or production-ready.** Syntax, APIs, runtime behavior and tooling may change without backward compatibility. Use it for experimentation at your own risk.
-
-### 🤖 Tori
-**Status:** Active Development
-
-Tori is my long-running Discord bot project and one of my main development playgrounds. It includes a multi-service architecture with Discord features, economy systems, persistence and operational infrastructure.
-
-Current areas include economy/wallet systems, inventory and equipment, career/profile features, marriage/social systems, moderation, music through Lavalink, PostgreSQL persistence and self-hosted operations.
-
-### 🩰 Noélia
-**Status:** Active Development
-
-Noélia is a separate ballet-themed Discord bot and gameplay project with its own identity and architecture. It includes economy/shop systems, progression and ballet-focused gameplay ideas while also serving as a place to experiment with new backend and infrastructure concepts.
-
-## 🛠️ What I Work With
-
-`Java` · `Elixir` · `Rust` · `Python` · `TypeScript` · `PostgreSQL` · `Docker` · `Git` · `Linux`
-
-I'm especially interested in:
-
-- Programming language design
-- Backend and runtime architecture
-- Discord bots
-- APIs and service communication
-- Databases and data integrity
-- Actor systems and concurrency
-- Raspberry Pi / self-hosting
-- Automation and developer tooling
-- Experimental projects that somehow become much larger than originally planned
-
-## 🌱 Currently
-
-I'm actively developing **Tyvera**, continuing the evolution of **Tori**, and working on **Noélia** alongside other experiments.
-
-Most of my projects evolve continuously. Some repositories contain experimental or unfinished work, so check each project's README for its current stability and development status.
+</div>
 
 ---
 
-*Apparently building my own programming language was the logical next step.* 💀
+## Currently building
+
+### Tyvera
+
+**An experimental programming language.**
+
+Tyvera combines ideas from **Java**, **Elixir** and **C++** — static typing and structured OOP, actors and fault tolerance, with increasingly lower-level runtime capabilities.
+
+The project currently includes its own lexer, parser, AST, type checker, interpreter and CLI alongside actors, supervisors, tasks, pattern matching, typed error handling and binary I/O.
+
+`experimental` · `actively developed` · `not production-ready`
+
+> Tyvera is still evolving. Syntax, APIs and runtime behavior can and will change.
+
+---
+
+### Tori
+
+My main Discord bot project — and probably the project I've rebuilt the most.
+
+Economy, inventory, profiles, careers, music, PostgreSQL-backed persistence and the infrastructure required to keep all of that alive.
+
+`Discord` · `Backend` · `PostgreSQL` · `Lavalink`
+
+**Status:** Active development
+
+---
+
+### Noélia
+
+A separate ballet-themed Discord bot with a stronger focus on gameplay and progression.
+
+Economy, shop systems, progression and ballet-inspired gameplay — developed independently from Tori.
+
+`Discord` · `Gameplay` · `Economy` · `Progression`
+
+**Status:** Active development
+
+---
+
+## Stack
+
+**Languages**
+
+`Java` · `Elixir` · `Python` · `TypeScript` · `Rust`
+
+**Infrastructure**
+
+`PostgreSQL` · `Linux` · `Docker` · `Git` · `Raspberry Pi`
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Reina-Kousaka1&theme=transparent&hide_border=true&background=00000000&stroke=C4A7E7&ring=F5A9C7&fire=F5A9C7&currStreakNum=F5A9C7&sideNums=C4A7E7&currStreakLabel=F5A9C7&sideLabels=C4A7E7&dates=9A8FA8" alt="Tori's GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Germany**
+
+*Building things that have a suspicious tendency to get out of scope.*
+
+</div>

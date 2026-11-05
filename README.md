@@ -88,11 +88,11 @@ Its evolving toolchain includes a lexer, parser, AST, type checker, interpreter 
 
 **Languages & tooling**
 
-`Java` · `Lua` · `C` · `Rust` · `TypeScript` · `Python` · `Elixir`
+`Java` · `Lua` · `C` · `Rust` · `TypeScript` · `Ruby` · `Python` · `Elixir`
 
 **Infrastructure**
 
-`Linux` · `Docker` · `PostgreSQL` · `Git` · `Raspberry Pi` · `Lavalink`
+`Linux` · `Docker` · `PostgreSQL` · `Redis` · `WiredTiger` · `Git` · `Raspberry Pi` · `Lavalink`
 
 ---
 
